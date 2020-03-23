@@ -1,2 +1,2 @@
-# webdintro.github.io
+# iamshubhamnayak.github.io
 Intro to Web Design
